@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Fabiana Alves de Oliveira Souza
+tagline: "Psicóloga | CRP: 06/13087"
 featuredImage: /assets/fabiana-perfil-transparente-azul.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Minha missão é fazer a diferença, contribuindo para um mundo melhor, promovendo o desenvolvimento humano e o bem-estar, por meio de escuta qualificada, acolhimento, empatia e determinação, para promover mudanças e proporcionar maior qualidade de vida.  
