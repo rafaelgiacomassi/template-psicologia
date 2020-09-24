@@ -59,7 +59,7 @@ const Pagination = (props) => (
       {!props.isLast && (
         <li>
           <Link to={props.nextPage} rel="next">
-            Next <span className="icon -right"><RiArrowRightLine/></span>
+            Próximo <span className="icon -right"><RiArrowRightLine/></span>
           </Link>
         </li>
       )}
@@ -98,7 +98,7 @@ class BlogIndex extends React.Component {
           title={"Blog — Page " + currentPage + " of " + numPages}
           description={"Stackrole base blog page " + currentPage + " of " + numPages }
         />
-        <h1>Blog</h1>
+        <h1>Meu Trabalho</h1>
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>

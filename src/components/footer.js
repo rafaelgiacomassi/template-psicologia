@@ -5,7 +5,7 @@ import { RiHeart2Line } from "react-icons/ri";
 const Footer = () => (
   <footer className="site-footer">
     <div className="container">
-      <p>A GatsbyJS Starter for Netlify CMS, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Stackrole.com</Link></p>
+      <p>Feito com <span className="icon -love"><RiHeart2Line/></span> por <a href="https://flordavidamarketing.com.br/">Flor Da Vida Marketing Digital</a> <Link to="/"></Link></p>
     </div>
   </footer>
 )
