@@ -5,7 +5,7 @@ slug: psicoterapia
 date: 2020-09-29 16:29
 description: A psicoterapia nos ajuda a entender, prevenir e aliviar o
   sofrimento, promovendo o bem-estar e o desenvolvimento pessoal. Saiba mais.
-featuredImage: /assets/psicoterapia.png
+featuredImage: /assets/psicoterapia.jpg
 ---
 A psicoterapia nos ajuda a entender, prevenir e aliviar o sofrimento, promovendo o bem-estar e o desenvolvimento pessoal. 
 
