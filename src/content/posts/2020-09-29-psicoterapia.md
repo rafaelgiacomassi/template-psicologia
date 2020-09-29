@@ -24,11 +24,3 @@ Procure por alguém que faça você se sentir confortável e que transmita confi
 <Link to="https://api.whatsapp.com/send?phone=5517991784843&text=Ol%C3%A1,%20eu%20gostaria%20de%20saber%20mais%20sobre%20o%20seu%20atendimento%20psicol%C3%B3gico" className="button">Entre em Contato (WhatsApp)</Link>
 </p>
 ```
-
-<p className="text-align-center">
-
-<Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
-
-</p>
-
-<!--EndFragment-->
