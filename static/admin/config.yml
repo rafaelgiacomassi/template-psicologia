@@ -85,6 +85,16 @@ collections:
         - {label: "Slug", name: "slug", widget: "hidden", default: "/contact" }
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Body", name: "body", widget: "markdown"}
+        - label: "CTA"
+          name: "cta"
+          widget: "object"
+          fields: 
+            - name: "ctaText"
+              label: "CTA text"
+              widget: "string"
+            - name: "ctaLink"
+              label: "CTA Link"
+              widget: "string"
   - name: settings
     label: Settings
     files:

@@ -8,7 +8,7 @@ const MenuItems = [
     title: "Home"
   },
   {
-    path: "/about",
+    path: "/sobre",
     title: "Sobre"
   },
   {
@@ -16,7 +16,7 @@ const MenuItems = [
     title: "Meu Trabalho"
   },
   {
-    path: "/contact",
+    path: "https://api.whatsapp.com/send?phone=5517991784843&text=Ol%C3%A1,%20eu%20gostaria%20de%20saber%20mais%20sobre%20o%20seu%20atendimento%20psicol%C3%B3gico",
     title: "Contato"
   },
 ]

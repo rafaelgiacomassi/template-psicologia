@@ -1,5 +1,6 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
+import { RiArrowRightSLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,8 +12,12 @@ export const pageQuery = graphql`
 			html
 			excerpt(pruneLength: 140)
       frontmatter {
-        title
-      }
+				title
+				cta {
+					ctaText
+					ctaLink
+				}
+			}
     }
   }
 `
@@ -29,6 +34,10 @@ const AboutPage = ({ data }) => {
 			<div className="wrapper">
 				<h1>{frontmatter.title}</h1>
 				<article dangerouslySetInnerHTML={{ __html: html }} />
+				<br></br>
+				<p className="text-align-center">
+					<Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
+				</p>
 			</div>
 		</Layout>
 	)
