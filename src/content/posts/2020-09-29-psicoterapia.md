@@ -18,9 +18,3 @@ Fazer psicoterapia é sentir-se acolhido (a), além de ser uma prova de amor pr�
 ara a terapia funcionar, é necessário que o paciente confie em seu terapeuta e que ambos tenham um bom relacionamento. 
 
 Procure por alguém que faça você se sentir confortável e que transmita confiança.
-
-```
-<p className="text-align-center">
-<Link to="https://api.whatsapp.com/send?phone=5517991784843&text=Ol%C3%A1,%20eu%20gostaria%20de%20saber%20mais%20sobre%20o%20seu%20atendimento%20psicol%C3%B3gico" className="button">Entre em Contato (WhatsApp)</Link>
-</p>
-```
